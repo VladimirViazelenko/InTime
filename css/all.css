@@ -6,49 +6,7 @@ body {
     min-width: 1300px;
 }
 
-
 /* HEADER */
-
-
-/*
-.header-wrapper {
-    background: #f5f8fb;
-    width: 100vw;
-    border-bottom: 1px solid #e0e9f0;
-}
-
-.header {
-    width: 1300px;
-    height: 100px;
-    margin: auto;
-}
-
-.header strong {
-    font: 500 32px "Rubik", sans-serif;
-    color: #282b2f;
-}
-
-.header span {
-    color: #009688;
-}
-
-.header .icon-phone:before {
-    content: "\e901";
-    color: #465a64;
-    margin-right: 15px;
-}
-
-.header p,
-.header a {
-    font: 500 18px "Rubik", sans-serif;
-    text-decoration: none;
-    color: #282b2f;
-    align-items: center;
-    text-align: center;
-    display: flex;
-    justify-content: flex-end;
-}
-*/
 
 .header-wrapper {
     background: #f5f8fb;
@@ -88,7 +46,6 @@ body {
     position: absolute;
     top: 2px;
 }
-
 
 /* NAV */
 
@@ -153,7 +110,6 @@ body {
     position: absolute;
 }
 
-
 /* CONTENT */
 
 .content {
@@ -167,7 +123,6 @@ body {
     height: 375px;
     margin: 40px 0;
 }
-
 
 /* INFO */
 
